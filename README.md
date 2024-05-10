@@ -1,4 +1,4 @@
-## Simple web application. Users can input two numbers and click the "Calculate" button.
+## Simple Meme web application. Users can input two numbers and click the "Calculate" button.
 
 ## Run
 To launch the application use:
