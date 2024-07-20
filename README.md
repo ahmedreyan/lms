@@ -13,5 +13,5 @@ To launch the application use:
 ## Technologies
 
 - FastAPI - Python web framework used for creating the backend.
-- JavaScript - Used for handling button click events and image loading.
+
 - HTML/CSS - Utilized for structuring and styling the web page.
